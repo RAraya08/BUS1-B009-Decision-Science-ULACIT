@@ -1,0 +1,10 @@
+---
+title: "Foro1"
+output: html_document
+date: '2022-06-04'
+---
+
+
+practice.string <- "Hello World"
+print(practice.string)
+
